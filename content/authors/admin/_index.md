@@ -1,5 +1,5 @@
 ---
-title: Yiming Zhang 张一鸣
+title: Yiming Zhang \n张一鸣
 role: 南京大学通信工程本科生
 avatar_filename: 微信图片_20221011194739.jpg
 bio: 目前正从事自然语言处理和集成电路设计相关的研究，未来有望在EDA软件设计方向进一步深造
